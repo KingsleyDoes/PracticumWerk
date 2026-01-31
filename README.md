@@ -1,2 +1,2 @@
 # PracticumWerk
-Exploration of ideas and mechanics for my eventual practicum III
+Work for my practicum III
